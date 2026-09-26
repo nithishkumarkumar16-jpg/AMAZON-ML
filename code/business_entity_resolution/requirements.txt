@@ -1,0 +1,9 @@
+# Core data processing & numerical computation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text processing & normalization
+unicodedata2>=15.0.0; python_version < '3.11'
+
+# Testing
+pytest>=7.0.0

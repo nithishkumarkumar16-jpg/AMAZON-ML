@@ -1,0 +1,22 @@
+# Datasets and large data files
+dataset/
+Amazon_ML_Challenge_2026/
+output/
+*.tsv
+*.csv
+*.pkl
+*.zip
+*.tar.gz
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# System files & IDE
+.DS_Store
+Thumbs.db
+__MACOSX/
+*.log
+.vscode/
